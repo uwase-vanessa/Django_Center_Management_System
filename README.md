@@ -1,12 +1,12 @@
-# Django-School-Management-System
+# Django-Center-Management-System
 
-This app is meant to be used by school manager to manage their school records:
-student data
+This app is meant to be used by center manager to manage their center records:
+members data
 staff
 results and
 finances.
 
-It currently doesn't allow students/staff to login.
+It currently doesn't allow center/staff to login.
 Solely, it's expected to be used on a single machine or online for managers only.
 
 
@@ -27,8 +27,8 @@ Then locate http://172.0.0.1:8000
 ## Admin Login
 When you run migrate, a superuser is created.
 ```bash
-username: admin
-password: admin123
+username: vanessa
+password: vanessa123
 ```
 
 ## Roadmap
