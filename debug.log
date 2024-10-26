@@ -1,0 +1,1092 @@
+INFO 2022-01-07 22:36:45,406 Watching for file changes with StatReloader
+INFO 2022-01-07 22:36:51,220 "GET / HTTP/1.1" 302 0
+INFO 2022-01-07 22:36:51,268 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2022-01-07 22:36:51,300 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2022-01-07 22:36:51,301 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2022-01-07 22:36:51,307 "GET /static/dist/img/login.png HTTP/1.1" 200 144918
+INFO 2022-01-07 22:36:51,311 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2022-01-07 22:36:51,313 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2022-01-07 22:36:51,320 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2022-01-07 22:36:51,325 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2022-01-07 22:36:51,341 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2022-01-07 22:36:51,342 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2022-01-07 22:36:51,348 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2022-01-07 22:36:51,353 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2022-01-07 22:36:51,355 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2022-01-07 22:36:51,359 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+WARNING 2022-01-07 22:36:51,412 Not Found: /favicon.ico
+WARNING 2022-01-07 22:36:51,412 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2022-01-07 22:36:51,909 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2022-01-07 22:36:52,274 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2022-01-07 22:36:56,990 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:36:57,139 "GET / HTTP/1.1" 200 9290
+INFO 2022-01-07 22:36:57,174 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2022-01-07 22:36:57,258 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2022-01-07 22:36:57,424 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2022-01-07 22:37:33,523 "GET /site-config HTTP/1.1" 200 10862
+INFO 2022-01-07 22:37:33,559 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,560 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,565 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,565 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,565 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,566 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,566 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,566 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,571 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,572 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,572 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,572 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,572 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,851 "POST /site-config HTTP/1.1" 200 10914
+INFO 2022-01-07 22:38:55,884 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,893 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,894 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,895 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,895 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,896 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,896 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,896 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,899 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,900 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,900 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,901 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,901 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,968 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,968 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:00,000 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2022-01-07 22:39:05,317 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2022-01-07 22:39:08,025 "GET /term/list/ HTTP/1.1" 200 12231
+INFO 2022-01-07 22:39:17,460 "GET /class/list/ HTTP/1.1" 200 11410
+INFO 2022-01-07 22:39:21,176 "GET /result/create/ HTTP/1.1" 200 10386
+INFO 2022-01-07 22:39:22,784 "GET /result/edit-results/ HTTP/1.1" 200 10104
+INFO 2022-01-07 22:39:24,143 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2022-01-07 22:39:25,534 "GET /result/create/ HTTP/1.1" 200 10386
+INFO 2022-01-07 22:39:27,159 "POST /result/create/ HTTP/1.1" 200 10530
+INFO 2022-01-07 22:39:31,185 "GET /student/list HTTP/1.1" 200 9946
+INFO 2022-01-07 22:39:34,601 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2022-01-07 22:39:37,434 "GET /student/list HTTP/1.1" 200 9946
+INFO 2022-01-07 22:39:40,527 "GET /site-config HTTP/1.1" 200 10862
+INFO 2022-01-07 22:39:40,556 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,562 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,563 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,567 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,569 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,570 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,570 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,570 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,571 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,572 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,573 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,573 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,574 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:58,385 "POST /site-config HTTP/1.1" 200 10884
+INFO 2022-01-07 22:40:01,819 "POST /site-config HTTP/1.1" 200 10883
+INFO 2022-01-07 22:40:03,260 "POST /site-config HTTP/1.1" 200 10883
+INFO 2022-01-07 22:40:04,944 "GET / HTTP/1.1" 200 9290
+INFO 2022-01-07 22:40:06,827 "GET /site-config HTTP/1.1" 200 10862
+WARNING 2022-01-07 22:44:11,699 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /site-config
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 87, in save
+    obj.save(force_insert=must_create, force_update=not must_create, using=using)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 845, in _save_table
+    updated = self._do_update(base_qs, using, pk_val, values, update_fields,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 899, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\query.py", line 802, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1559, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    request.session.save()
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 94, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 63, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2022-01-07 22:44:11,702 "GET /site-config HTTP/1.1" 400 170832
+WARNING 2022-01-07 22:44:32,213 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 87, in save
+    obj.save(force_insert=must_create, force_update=not must_create, using=using)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 845, in _save_table
+    updated = self._do_update(base_qs, using, pk_val, values, update_fields,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 899, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\query.py", line 802, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1559, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    request.session.save()
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 94, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 63, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2022-01-07 22:44:32,214 "GET / HTTP/1.1" 400 170320
+INFO 2022-01-07 22:45:16,018 Watching for file changes with StatReloader
+WARNING 2022-01-07 22:45:25,273 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 87, in save
+    obj.save(force_insert=must_create, force_update=not must_create, using=using)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 845, in _save_table
+    updated = self._do_update(base_qs, using, pk_val, values, update_fields,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 899, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\query.py", line 802, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1559, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    request.session.save()
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 94, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 63, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2022-01-07 22:45:25,276 "GET / HTTP/1.1" 400 170457
+INFO 2022-01-07 22:45:54,293 "GET / HTTP/1.1" 200 9298
+INFO 2022-01-07 22:45:54,320 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,321 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,327 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,327 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,327 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,328 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,328 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,328 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,331 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,333 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,333 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,334 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,334 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,376 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,376 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:57,552 "GET /site-config HTTP/1.1" 200 10873
+INFO 2022-01-07 22:46:02,685 "GET /session/list/ HTTP/1.1" 200 11606
+INFO 2022-01-07 22:46:14,111 "POST /session/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:46:14,236 "GET /session/list/ HTTP/1.1" 200 12094
+INFO 2022-01-07 22:46:18,694 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 22:46:27,103 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:46:27,117 "GET / HTTP/1.1" 302 0
+INFO 2022-01-07 22:46:27,127 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:46:27,156 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:46:27,159 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,109 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:51:05,134 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,141 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,142 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,143 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,144 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,147 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,153 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,154 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,154 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,155 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,155 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,157 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,158 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,241 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,901 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:51:06,473 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:55:09,674 Watching for file changes with StatReloader
+INFO 2022-01-07 22:56:08,897 Watching for file changes with StatReloader
+INFO 2022-01-07 22:56:20,757 "GET / HTTP/1.1" 302 0
+INFO 2022-01-07 22:56:20,785 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:56:20,863 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2022-01-07 22:56:20,876 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2022-01-07 22:56:20,902 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2022-01-07 22:56:20,912 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2022-01-07 22:56:20,930 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2022-01-07 22:56:20,931 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2022-01-07 22:56:20,939 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2022-01-07 22:56:20,941 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2022-01-07 22:56:20,941 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2022-01-07 22:56:20,946 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2022-01-07 22:56:20,957 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2022-01-07 22:56:20,966 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2022-01-07 22:56:20,974 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2022-01-07 22:56:21,406 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2022-01-07 22:56:37,184 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:56:37,309 "GET / HTTP/1.1" 200 9298
+INFO 2022-01-07 22:56:37,340 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2022-01-07 22:56:37,368 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2022-01-07 22:56:37,421 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2022-01-07 22:56:47,884 "GET /site-config HTTP/1.1" 200 10873
+INFO 2022-01-07 22:56:53,969 "GET /session/list/ HTTP/1.1" 200 11949
+INFO 2022-01-07 22:57:06,893 "POST /session/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:57:07,036 "GET /session/list/ HTTP/1.1" 200 12437
+INFO 2022-01-07 22:57:14,603 "GET /term/list/ HTTP/1.1" 200 12239
+INFO 2022-01-07 22:57:19,260 "GET /subject/list/ HTTP/1.1" 200 11405
+INFO 2022-01-07 22:57:33,069 "POST /subject/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:57:33,219 "GET /subject/list/ HTTP/1.1" 200 11835
+INFO 2022-01-07 22:57:42,411 "POST /subject/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:57:42,544 "GET /subject/list/ HTTP/1.1" 200 12122
+INFO 2022-01-07 22:57:45,487 "GET /subject/4/delete/ HTTP/1.1" 200 9997
+INFO 2022-01-07 22:57:47,136 "POST /subject/4/delete/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:57:47,253 "GET /subject/list/ HTTP/1.1" 200 11873
+INFO 2022-01-07 22:57:54,361 "GET /class/list/ HTTP/1.1" 200 11418
+INFO 2022-01-07 22:58:10,004 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:58:10,120 "GET /class/list/ HTTP/1.1" 200 11844
+INFO 2022-01-07 22:58:21,478 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 22:58:25,570 "GET /student/create/ HTTP/1.1" 200 13660
+INFO 2022-01-07 22:59:46,572 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:59:46,732 "GET /student/1/ HTTP/1.1" 200 11314
+INFO 2022-01-07 22:59:46,757 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,758 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,758 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,759 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,759 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,760 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,767 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,767 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,768 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,768 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,769 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,769 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,776 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,889 "GET /media/students/passports/projectworlds.png HTTP/1.1" 200 13585
+INFO 2022-01-07 23:00:00,782 "GET /student/1/update/ HTTP/1.1" 200 13963
+INFO 2022-01-07 23:00:04,922 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 23:00:06,989 "GET /student/upload/ HTTP/1.1" 200 10009
+INFO 2022-01-07 23:00:14,256 "GET /student/download-csv/ HTTP/1.1" 200 94
+INFO 2022-01-07 23:02:33,819 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:02:34,036 "GET /student/list HTTP/1.1" 200 10099
+INFO 2022-01-07 23:02:39,461 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 23:02:39,751 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,752 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,759 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,759 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,775 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,778 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,782 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,783 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,784 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,789 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,793 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,795 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,795 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:49,228 "GET /student/create/ HTTP/1.1" 200 13695
+INFO 2022-01-07 23:03:24,013 "POST /student/create/ HTTP/1.1" 200 13887
+INFO 2022-01-07 23:03:30,756 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:03:31,004 "GET /student/3/ HTTP/1.1" 200 11297
+INFO 2022-01-07 23:03:31,095 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2022-01-07 23:03:34,773 "GET /student/3/update/ HTTP/1.1" 200 13766
+INFO 2022-01-07 23:03:42,330 "POST /student/3/update/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:03:42,764 "GET /student/3/ HTTP/1.1" 200 11298
+INFO 2022-01-07 23:03:46,159 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 23:05:04,576 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 23:05:08,969 "GET / HTTP/1.1" 200 9298
+INFO 2022-01-07 23:05:15,950 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2022-01-07 23:05:19,684 "GET /finance/create/ HTTP/1.1" 200 13686
+INFO 2022-01-07 23:06:47,475 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:06:47,633 "GET /finance/list HTTP/1.1" 301 0
+INFO 2022-01-07 23:06:47,799 "GET /finance/list/ HTTP/1.1" 200 10353
+INFO 2022-01-07 23:06:47,845 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,848 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,849 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,857 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,858 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,863 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,866 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,871 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,872 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,872 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,873 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,874 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,877 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:55,626 "GET /finance/create/ HTTP/1.1" 200 13686
+INFO 2022-01-07 23:06:59,977 "GET /finance/list/ HTTP/1.1" 200 10353
+INFO 2022-01-07 23:07:04,048 - Broken pipe from ('127.0.0.1', 55028)
+
+INFO 2022-01-07 23:07:04,220 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10851
+INFO 2022-01-07 23:07:18,913 "POST /finance/receipt/create?invoice=1 HTTP/1.1" 302 0
+INFO 2022-01-07 23:07:19,205 "GET /finance/list/ HTTP/1.1" 200 10355
+INFO 2022-01-07 23:07:26,524 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2022-01-07 23:07:31,146 "GET /staff/create/ HTTP/1.1" 200 12608
+INFO 2022-01-07 23:07:40,463 "GET /result/view/all HTTP/1.1" 200 8842
+INFO 2022-01-07 23:07:48,213 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2022-01-07 23:07:59,394 "POST /result/create/ HTTP/1.1" 200 11146
+INFO 2022-01-07 23:08:10,904 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:08:11,417 "GET /result/edit-results/ HTTP/1.1" 200 12057
+INFO 2022-01-07 23:08:44,225 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:08:44,681 "GET /result/edit-results/ HTTP/1.1" 200 12212
+INFO 2022-01-07 23:08:52,092 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2022-01-07 23:09:01,934 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2022-01-07 23:09:09,356 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2022-01-07 23:09:14,933 "GET /result/edit-results/ HTTP/1.1" 200 12069
+INFO 2022-01-07 23:09:25,474 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:09:26,075 "GET /result/edit-results/ HTTP/1.1" 200 12212
+INFO 2022-01-07 23:09:30,424 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2022-01-07 23:09:39,427 "GET / HTTP/1.1" 200 9298
+INFO 2022-01-07 23:09:46,083 "GET /finance/list/ HTTP/1.1" 200 10355
+INFO 2022-01-07 23:09:51,257 "GET /finance/1/detail/ HTTP/1.1" 200 11415
+INFO 2024-10-26 08:34:52,277 Watching for file changes with StatReloader
+INFO 2024-10-26 08:38:17,616 Watching for file changes with StatReloader
+INFO 2024-10-26 08:43:20,246 Watching for file changes with StatReloader
+INFO 2024-10-26 08:43:55,718 Watching for file changes with StatReloader
+INFO 2024-10-26 08:43:59,364 "GET / HTTP/1.1" 302 0
+INFO 2024-10-26 08:43:59,431 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-10-26 08:43:59,616 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-10-26 08:43:59,633 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-10-26 08:43:59,648 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-10-26 08:43:59,653 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2024-10-26 08:43:59,658 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-10-26 08:43:59,684 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-10-26 08:43:59,686 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-10-26 08:43:59,702 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-10-26 08:43:59,707 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-10-26 08:43:59,708 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-10-26 08:43:59,712 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-10-26 08:43:59,714 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-10-26 08:43:59,720 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-10-26 08:44:00,521 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-10-26 08:44:00,580 Not Found: /favicon.ico
+WARNING 2024-10-26 08:44:00,581 "GET /favicon.ico HTTP/1.1" 404 8149
+INFO 2024-10-26 08:47:10,108 "POST /accounts/login/ HTTP/1.1" 200 4114
+INFO 2024-10-26 08:47:10,144 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,153 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,155 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,155 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,158 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,159 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,159 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,159 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,160 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,162 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,164 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,167 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,167 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:47:10,192 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 08:54:03,955 Watching for file changes with StatReloader
+ERROR 2024-10-26 08:54:35,842 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedTable: relation "corecode_academicsession" does not exist
+LINE 1: ..."name", "corecode_academicsession"."current" FROM "corecode_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\middleware.py", line 9, in __call__
+    current_session = AcademicSession.objects.get(current=True)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: relation "corecode_academicsession" does not exist
+LINE 1: ..."name", "corecode_academicsession"."current" FROM "corecode_...
+                                                             ^
+
+ERROR 2024-10-26 08:54:35,849 "POST /accounts/login/ HTTP/1.1" 500 126611
+ERROR 2024-10-26 08:54:47,650 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedTable: relation "corecode_academicsession" does not exist
+LINE 1: ..."name", "corecode_academicsession"."current" FROM "corecode_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\middleware.py", line 9, in __call__
+    current_session = AcademicSession.objects.get(current=True)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\vanessa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: relation "corecode_academicsession" does not exist
+LINE 1: ..."name", "corecode_academicsession"."current" FROM "corecode_...
+                                                             ^
+
+ERROR 2024-10-26 08:54:47,650 "GET / HTTP/1.1" 500 125210
+INFO 2024-10-26 08:56:13,109 Watching for file changes with StatReloader
+INFO 2024-10-26 08:56:16,002 "GET / HTTP/1.1" 302 0
+INFO 2024-10-26 08:56:16,084 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2024-10-26 08:56:16,126 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,146 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,147 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,147 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,147 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,150 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,152 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,176 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,177 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,177 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,185 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,185 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,186 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:56:16,305 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+WARNING 2024-10-26 08:56:16,458 Not Found: /favicon.ico
+WARNING 2024-10-26 08:56:16,458 "GET /favicon.ico HTTP/1.1" 404 8149
+INFO 2024-10-26 08:56:24,572 "POST /accounts/login/ HTTP/1.1" 200 4106
+INFO 2024-10-26 08:56:55,264 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-10-26 08:56:55,349 "GET / HTTP/1.1" 200 9290
+INFO 2024-10-26 08:56:55,544 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-10-26 08:56:55,555 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-10-26 08:56:55,560 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-10-26 08:56:58,308 "GET /student/list HTTP/1.1" 200 9946
+INFO 2024-10-26 08:57:02,639 "GET /student/create/ HTTP/1.1" 200 13612
+INFO 2024-10-26 08:58:10,214 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 08:58:10,329 "GET /student/1/ HTTP/1.1" 200 11337
+INFO 2024-10-26 08:58:10,454 "GET /media/students/passports/Snapchat-1752001794.jpg HTTP/1.1" 200 153676
+INFO 2024-10-26 08:59:12,922 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2024-10-26 08:59:12,955 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,959 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,959 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,961 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,964 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,964 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,967 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,969 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,969 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,969 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,969 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,969 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:12,971 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:16,562 "GET /finance/list/ HTTP/1.1" 200 9925
+INFO 2024-10-26 08:59:16,641 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:16,641 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 08:59:20,542 "GET /finance/create/ HTTP/1.1" 200 13447
+INFO 2024-10-26 08:59:27,892 "GET /result/create/ HTTP/1.1" 200 10582
+INFO 2024-10-26 08:59:38,032 "GET /result/edit-results/ HTTP/1.1" 200 10104
+INFO 2024-10-26 08:59:38,124 "GET /result/edit-results/ HTTP/1.1" 200 10104
+INFO 2024-10-26 08:59:39,214 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2024-10-26 08:59:40,505 "GET /result/edit-results/ HTTP/1.1" 200 10104
+INFO 2024-10-26 08:59:44,889 "GET /result/create/ HTTP/1.1" 200 10582
+INFO 2024-10-26 08:59:48,953 "POST /result/create/ HTTP/1.1" 200 10726
+INFO 2024-10-26 08:59:54,828 "POST /result/create/ HTTP/1.1" 200 10911
+INFO 2024-10-26 09:00:50,158 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2024-10-26 09:00:56,042 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2024-10-26 09:00:58,711 "GET /site-config HTTP/1.1" 200 10862
+INFO 2024-10-26 09:03:38,428 "GET /student/list HTTP/1.1" 200 9946
+INFO 2024-10-26 09:03:38,465 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,479 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,479 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,482 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,483 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,483 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,483 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,486 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,486 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,486 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,486 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,486 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,486 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,511 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:03:38,511 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,009 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:15:14,050 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,059 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,063 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,064 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,068 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,068 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,070 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,070 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,071 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,072 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,073 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,073 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,073 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,132 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:14,132 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:15:18,851 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:15:26,907 "GET /staff/list/ HTTP/1.1" 200 9680
+INFO 2024-10-26 09:15:30,325 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:15:31,868 "GET /finance/list/ HTTP/1.1" 200 9918
+INFO 2024-10-26 09:15:39,243 "GET /result/create/ HTTP/1.1" 200 10575
+INFO 2024-10-26 09:15:55,284 "GET /class/list/ HTTP/1.1" 200 11403
+INFO 2024-10-26 09:16:34,926 "GET /class/list/ HTTP/1.1" 200 11406
+INFO 2024-10-26 09:17:38,597 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:17:39,640 Watching for file changes with StatReloader
+INFO 2024-10-26 09:17:51,419 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:17:51,983 Watching for file changes with StatReloader
+INFO 2024-10-26 09:18:40,295 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:18:40,911 Watching for file changes with StatReloader
+INFO 2024-10-26 09:19:00,102 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:19:00,707 Watching for file changes with StatReloader
+INFO 2024-10-26 09:19:16,654 "GET /class/list/ HTTP/1.1" 200 11406
+INFO 2024-10-26 09:19:22,555 "GET /subject/list/ HTTP/1.1" 200 11390
+INFO 2024-10-26 09:19:22,587 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,600 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,600 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,601 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,607 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,608 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,609 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,609 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,609 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,611 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,611 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,611 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,611 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,654 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:22,655 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:19:26,404 "GET /subject/list/ HTTP/1.1" 200 11390
+INFO 2024-10-26 09:19:30,338 "GET /subject/2/update/ HTTP/1.1" 200 9819
+INFO 2024-10-26 09:19:34,749 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:19:37,259 "GET /student/create/ HTTP/1.1" 200 13605
+INFO 2024-10-26 09:19:51,308 "GET /result/create/ HTTP/1.1" 200 10575
+INFO 2024-10-26 09:19:51,406 "GET /result/create/ HTTP/1.1" 200 10575
+INFO 2024-10-26 09:19:52,401 "GET /result/create/ HTTP/1.1" 200 10575
+INFO 2024-10-26 09:19:57,783 "POST /result/create/ HTTP/1.1" 200 10904
+INFO 2024-10-26 09:20:01,164 "GET /result/create/ HTTP/1.1" 200 10575
+INFO 2024-10-26 09:20:03,467 "POST /result/create/ HTTP/1.1" 200 10719
+INFO 2024-10-26 09:20:07,304 "POST /result/create/ HTTP/1.1" 200 10904
+INFO 2024-10-26 09:20:52,135 "GET /class/list/ HTTP/1.1" 200 11406
+INFO 2024-10-26 09:21:16,523 "GET /class/list/ HTTP/1.1" 200 11406
+INFO 2024-10-26 09:21:24,528 "GET /class/list/ HTTP/1.1" 200 11406
+INFO 2024-10-26 09:21:27,379 "GET /subject/list/ HTTP/1.1" 200 11390
+INFO 2024-10-26 09:21:37,187 "GET /subject/list/ HTTP/1.1" 200 11390
+INFO 2024-10-26 09:21:40,334 "GET /class/list/ HTTP/1.1" 200 11406
+INFO 2024-10-26 09:23:07,283 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:23:07,957 Watching for file changes with StatReloader
+INFO 2024-10-26 09:23:11,367 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:23:12,002 Watching for file changes with StatReloader
+INFO 2024-10-26 09:23:14,412 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:23:14,956 Watching for file changes with StatReloader
+INFO 2024-10-26 09:23:18,361 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:23:18,920 Watching for file changes with StatReloader
+INFO 2024-10-26 09:23:22,327 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:23:22,935 Watching for file changes with StatReloader
+INFO 2024-10-26 09:23:38,911 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:23:39,496 Watching for file changes with StatReloader
+INFO 2024-10-26 09:23:42,888 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:23:43,448 Watching for file changes with StatReloader
+INFO 2024-10-26 09:24:02,508 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:24:03,098 Watching for file changes with StatReloader
+INFO 2024-10-26 09:24:05,495 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:24:06,057 Watching for file changes with StatReloader
+INFO 2024-10-26 09:24:28,344 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:24:28,865 Watching for file changes with StatReloader
+INFO 2024-10-26 09:24:32,291 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:24:32,850 Watching for file changes with StatReloader
+INFO 2024-10-26 09:24:38,299 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:24:38,933 Watching for file changes with StatReloader
+INFO 2024-10-26 09:24:41,263 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:24:42,000 Watching for file changes with StatReloader
+INFO 2024-10-26 09:24:44,149 "GET /class/list/ HTTP/1.1" 200 11406
+INFO 2024-10-26 09:24:44,180 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,189 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,190 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,192 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,195 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,195 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,195 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,195 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,196 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,198 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,199 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,199 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:44,199 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:51,469 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:24:51,546 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:51,546 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:24:53,749 "GET /staff/list/ HTTP/1.1" 200 9680
+INFO 2024-10-26 09:35:30,975 Watching for file changes with StatReloader
+INFO 2024-10-26 09:35:58,967 "GET / HTTP/1.1" 200 9283
+INFO 2024-10-26 09:35:59,007 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,016 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,017 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,019 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,024 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,024 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,024 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,026 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,027 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,027 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,028 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,028 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,028 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,082 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:35:59,083 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:36:03,925 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:36:10,910 - Broken pipe from ('127.0.0.1', 2122)
+INFO 2024-10-26 09:36:10,972 "GET /staff/list/ HTTP/1.1" 200 9683
+INFO 2024-10-26 09:36:15,272 "GET /finance/list/ HTTP/1.1" 200 9918
+INFO 2024-10-26 09:36:17,098 "GET /staff/list/ HTTP/1.1" 200 9683
+INFO 2024-10-26 09:36:21,272 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:36:28,614 "GET /result/edit-results/ HTTP/1.1" 200 10100
+INFO 2024-10-26 09:36:48,383 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:36:49,004 Watching for file changes with StatReloader
+INFO 2024-10-26 09:36:51,375 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:36:51,952 Watching for file changes with StatReloader
+INFO 2024-10-26 09:36:55,362 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:36:55,837 Watching for file changes with StatReloader
+INFO 2024-10-26 09:37:32,588 "GET /result/edit-results/ HTTP/1.1" 200 10100
+INFO 2024-10-26 09:37:38,859 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:37:47,692 Watching for file changes with StatReloader
+INFO 2024-10-26 09:37:50,425 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:37:55,462 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:37:57,983 "GET /current-session/ HTTP/1.1" 200 10602
+INFO 2024-10-26 09:38:05,321 "GET /session/create/?next=current-session/ HTTP/1.1" 200 10167
+INFO 2024-10-26 09:38:26,856 "POST /session/create/?next=current-session/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:38:26,942 "GET /session/list/ HTTP/1.1" 200 12079
+INFO 2024-10-26 09:38:34,858 "GET /current-session/ HTTP/1.1" 200 10642
+INFO 2024-10-26 09:38:35,692 "GET / HTTP/1.1" 200 9283
+INFO 2024-10-26 09:38:39,006 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:38:50,622 "GET /staff/list/ HTTP/1.1" 200 9683
+INFO 2024-10-26 09:38:53,323 "GET /finance/list/ HTTP/1.1" 200 9918
+INFO 2024-10-26 09:38:56,012 "GET / HTTP/1.1" 200 9283
+INFO 2024-10-26 09:39:03,772 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:40:24,211 "GET /student/upload/ HTTP/1.1" 200 9993
+INFO 2024-10-26 09:40:28,706 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:40:35,744 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:41:09,750 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:41:10,429 Watching for file changes with StatReloader
+INFO 2024-10-26 09:41:15,909 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:41:16,439 Watching for file changes with StatReloader
+INFO 2024-10-26 09:41:19,882 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:41:20,511 Watching for file changes with StatReloader
+INFO 2024-10-26 09:41:26,977 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:41:27,599 Watching for file changes with StatReloader
+INFO 2024-10-26 09:41:34,129 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:41:34,710 Watching for file changes with StatReloader
+INFO 2024-10-26 09:41:39,175 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:41:39,712 Watching for file changes with StatReloader
+INFO 2024-10-26 09:43:01,985 "GET /student/list HTTP/1.1" 200 9939
+INFO 2024-10-26 09:43:02,013 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,016 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,023 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,023 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,024 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,024 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,024 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,024 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,027 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,028 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,028 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,029 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:02,029 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:04,536 "GET /student/create/ HTTP/1.1" 200 13603
+INFO 2024-10-26 09:43:04,629 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:43:04,629 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:45:22,569 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:45:22,677 "GET /student/2/ HTTP/1.1" 200 11325
+INFO 2024-10-26 09:45:22,859 "GET /media/students/passports/Snapchat-180234118.jpg HTTP/1.1" 200 87883
+INFO 2024-10-26 09:45:52,345 "GET /student/2/update/ HTTP/1.1" 200 13950
+INFO 2024-10-26 09:46:02,787 "POST /student/2/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:46:02,885 "GET /student/2/ HTTP/1.1" 200 11322
+INFO 2024-10-26 09:46:02,985 "GET /media/students/passports/Snapchat-180234118.jpg HTTP/1.1" 304 0
+INFO 2024-10-26 09:46:19,692 - Broken pipe from ('127.0.0.1', 2453)
+INFO 2024-10-26 09:46:19,749 "GET /subject/list/ HTTP/1.1" 200 11390
+INFO 2024-10-26 09:46:23,654 "GET /subject/2/update/ HTTP/1.1" 200 9819
+INFO 2024-10-26 09:46:52,298 "POST /subject/2/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:46:52,382 "GET /subject/list/ HTTP/1.1" 200 11543
+INFO 2024-10-26 09:47:00,231 "GET /subject/1/update/ HTTP/1.1" 200 9823
+INFO 2024-10-26 09:47:03,178 "POST /subject/1/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:47:03,259 "GET /subject/list/ HTTP/1.1" 200 11557
+INFO 2024-10-26 09:47:26,549 "POST /subject/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:47:26,641 "GET /subject/list/ HTTP/1.1" 200 11859
+INFO 2024-10-26 09:48:35,369 "GET /subject/list/ HTTP/1.1" 200 11716
+INFO 2024-10-26 09:48:44,097 "GET /term/list/ HTTP/1.1" 200 12224
+INFO 2024-10-26 09:48:48,088 "GET /term/1/update/ HTTP/1.1" 200 10150
+INFO 2024-10-26 09:50:16,712 "POST /term/1/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:50:16,797 "GET /term/list/ HTTP/1.1" 200 12363
+INFO 2024-10-26 09:50:16,823 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,829 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,829 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,832 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,834 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,835 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,836 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,836 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,836 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,836 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,836 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,838 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:16,838 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:22,694 "GET /term/2/update/ HTTP/1.1" 200 10141
+INFO 2024-10-26 09:50:22,774 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:22,775 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:50:33,831 "POST /term/2/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:50:33,907 "GET /term/list/ HTTP/1.1" 200 12362
+INFO 2024-10-26 09:50:37,512 "GET /term/3/update/ HTTP/1.1" 200 10141
+INFO 2024-10-26 09:50:47,889 "POST /term/3/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:50:48,124 "GET /term/list/ HTTP/1.1" 200 12361
+INFO 2024-10-26 09:51:06,871 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:51:07,561 Watching for file changes with StatReloader
+INFO 2024-10-26 09:51:11,011 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:51:11,600 Watching for file changes with StatReloader
+INFO 2024-10-26 09:51:18,092 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:51:18,582 Watching for file changes with StatReloader
+INFO 2024-10-26 09:51:21,966 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:51:22,480 Watching for file changes with StatReloader
+INFO 2024-10-26 09:51:27,968 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:51:28,471 Watching for file changes with StatReloader
+INFO 2024-10-26 09:51:30,841 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:51:31,432 Watching for file changes with StatReloader
+INFO 2024-10-26 09:51:37,805 Watching for file changes with StatReloader
+INFO 2024-10-26 09:51:41,056 "GET /term/list/ HTTP/1.1" 200 12220
+INFO 2024-10-26 09:51:49,156 "GET /result/edit-results/ HTTP/1.1" 200 10099
+INFO 2024-10-26 09:51:50,833 "GET /result/view/all HTTP/1.1" 200 8826
+INFO 2024-10-26 09:51:54,564 "GET /term/list/ HTTP/1.1" 200 12220
+INFO 2024-10-26 09:51:57,099 "GET /session/list/ HTTP/1.1" 200 11933
+INFO 2024-10-26 09:52:03,914 "GET /class/list/ HTTP/1.1" 200 11402
+INFO 2024-10-26 09:52:15,811 "GET /subject/list/ HTTP/1.1" 200 11715
+INFO 2024-10-26 09:52:19,545 "GET /class/list/ HTTP/1.1" 200 11402
+INFO 2024-10-26 09:53:05,694 "GET /class/1/update/ HTTP/1.1" 200 9816
+INFO 2024-10-26 09:53:08,617 "POST /class/1/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:53:08,844 "GET /class/list/ HTTP/1.1" 200 11563
+INFO 2024-10-26 09:53:23,806 "GET /class/2/update/ HTTP/1.1" 200 9816
+INFO 2024-10-26 09:53:33,195 "POST /class/2/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:53:33,394 "GET /class/list/ HTTP/1.1" 200 11575
+INFO 2024-10-26 09:53:44,851 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:53:44,943 "GET /class/list/ HTTP/1.1" 200 11870
+INFO 2024-10-26 09:54:15,384 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:54:15,464 "GET /class/list/ HTTP/1.1" 200 12159
+INFO 2024-10-26 09:54:40,329 "GET /class/2/update/ HTTP/1.1" 200 9828
+INFO 2024-10-26 09:54:43,554 "POST /class/2/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:54:43,649 "GET /class/list/ HTTP/1.1" 200 12168
+INFO 2024-10-26 09:55:01,536 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:55:01,625 "GET /class/list/ HTTP/1.1" 200 12461
+INFO 2024-10-26 09:55:19,174 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:55:19,275 "GET /class/list/ HTTP/1.1" 200 12758
+INFO 2024-10-26 09:55:23,020 - Broken pipe from ('127.0.0.1', 2782)
+INFO 2024-10-26 09:55:23,075 "GET /finance/list/ HTTP/1.1" 200 9917
+INFO 2024-10-26 09:55:25,020 "GET /staff/list/ HTTP/1.1" 200 9682
+INFO 2024-10-26 09:55:27,242 "GET /result/edit-results/ HTTP/1.1" 200 10099
+INFO 2024-10-26 09:55:31,068 "GET /result/create/ HTTP/1.1" 200 10808
+INFO 2024-10-26 09:55:42,628 "GET /result/edit-results/ HTTP/1.1" 200 10099
+INFO 2024-10-26 09:55:44,330 "GET /result/create/ HTTP/1.1" 200 10808
+INFO 2024-10-26 09:55:46,487 "GET /result/view/all HTTP/1.1" 200 8826
+INFO 2024-10-26 09:55:50,664 "GET /session/list/ HTTP/1.1" 200 11933
+INFO 2024-10-26 09:56:12,342 "POST /session/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:56:12,426 "GET /session/list/ HTTP/1.1" 200 12421
+INFO 2024-10-26 09:56:17,081 "GET /session/2/update/ HTTP/1.1" 200 10161
+INFO 2024-10-26 09:56:20,084 "POST /session/2/update/ HTTP/1.1" 302 0
+INFO 2024-10-26 09:56:20,173 "GET /session/list/ HTTP/1.1" 200 12420
+INFO 2024-10-26 09:56:24,382 "GET /site-config HTTP/1.1" 200 10854
+INFO 2024-10-26 09:56:40,240 "POST /site-config HTTP/1.1" 200 10865
+INFO 2024-10-26 09:56:44,815 "GET / HTTP/1.1" 200 9282
+INFO 2024-10-26 09:56:47,468 "GET /site-config HTTP/1.1" 200 10854
+INFO 2024-10-26 09:57:10,780 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:57:11,575 Watching for file changes with StatReloader
+INFO 2024-10-26 09:57:14,985 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:57:15,572 Watching for file changes with StatReloader
+INFO 2024-10-26 09:57:21,162 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\corecode\migrations\0002_auto_20200506_1520.py changed, reloading.
+INFO 2024-10-26 09:57:21,755 Watching for file changes with StatReloader
+INFO 2024-10-26 09:57:33,687 Watching for file changes with StatReloader
+INFO 2024-10-26 09:57:37,279 "GET /site-config HTTP/1.1" 200 10854
+INFO 2024-10-26 09:57:40,252 "GET /site-config HTTP/1.1" 200 10854
+INFO 2024-10-26 09:58:56,626 "GET /site-config HTTP/1.1" 200 10854
+INFO 2024-10-26 09:58:56,657 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,659 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,663 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,664 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,664 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,665 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,670 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,671 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,671 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,671 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,671 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,672 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:58:56,672 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 09:59:04,326 Watching for file changes with StatReloader
+INFO 2024-10-26 09:59:08,119 "GET /site-config HTTP/1.1" 200 10854
+INFO 2024-10-26 09:59:08,196 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:59:08,200 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 09:59:47,432 "GET / HTTP/1.1" 200 9282
+INFO 2024-10-26 09:59:49,454 "GET /site-config HTTP/1.1" 200 10854
+INFO 2024-10-26 10:00:13,621 "POST /site-config HTTP/1.1" 200 10874
+INFO 2024-10-26 10:00:22,594 "POST /site-config HTTP/1.1" 200 10874
+INFO 2024-10-26 10:00:27,885 "GET /site-config HTTP/1.1" 200 10854
+INFO 2024-10-26 10:00:34,626 "POST /site-config HTTP/1.1" 200 10871
+INFO 2024-10-26 10:02:17,731 "GET /student/list HTTP/1.1" 200 9938
+INFO 2024-10-26 10:02:26,070 "GET /finance/list/ HTTP/1.1" 200 9917
+INFO 2024-10-26 10:04:37,252 "GET /student/list HTTP/1.1" 200 9938
+INFO 2024-10-26 10:05:16,517 "GET /student/list HTTP/1.1" 200 9935
+INFO 2024-10-26 10:05:27,565 "GET /student/list HTTP/1.1" 200 9936
+INFO 2024-10-26 10:05:44,308 "GET /student/list HTTP/1.1" 200 9935
+INFO 2024-10-26 10:05:53,509 "GET /student/list HTTP/1.1" 200 9935
+INFO 2024-10-26 10:05:55,972 "GET /staff/list/ HTTP/1.1" 200 9682
+INFO 2024-10-26 10:05:58,901 "GET /student/list HTTP/1.1" 200 9935
+INFO 2024-10-26 10:06:00,565 "GET /finance/list/ HTTP/1.1" 200 9917
+INFO 2024-10-26 10:06:02,609 "GET /student/list HTTP/1.1" 200 9935
+INFO 2024-10-26 10:06:03,899 "GET /result/create/ HTTP/1.1" 200 10808
+INFO 2024-10-26 10:06:17,282 "POST /result/create/ HTTP/1.1" 200 10952
+INFO 2024-10-26 10:06:20,197 "GET /result/create/ HTTP/1.1" 200 10808
+INFO 2024-10-26 10:06:21,468 "GET /result/edit-results/ HTTP/1.1" 200 10099
+INFO 2024-10-26 10:06:22,918 "GET /result/create/ HTTP/1.1" 200 10808
+INFO 2024-10-26 10:06:25,122 "GET /result/edit-results/ HTTP/1.1" 200 10099
+INFO 2024-10-26 10:06:27,533 "GET /result/create/ HTTP/1.1" 200 10808
+INFO 2024-10-26 10:06:32,289 "POST /result/create/ HTTP/1.1" 200 11174
+INFO 2024-10-26 10:06:45,321 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 10:06:45,417 "GET /result/edit-results/ HTTP/1.1" 200 12191
+INFO 2024-10-26 10:07:22,354 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-10-26 10:07:22,466 "GET /result/edit-results/ HTTP/1.1" 200 12337
+INFO 2024-10-26 10:07:25,300 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-10-26 10:07:25,399 "GET /result/edit-results/ HTTP/1.1" 200 12337
+INFO 2024-10-26 10:07:25,433 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,441 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,442 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,444 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,445 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,447 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,448 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,449 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,449 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,449 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,449 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,451 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:25,452 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:07:33,984 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-10-26 10:07:34,087 "GET /result/edit-results/ HTTP/1.1" 200 11644
+INFO 2024-10-26 10:07:45,704 "GET /result/edit-results/ HTTP/1.1" 200 11501
+WARNING 2024-10-26 10:07:52,978 Method Not Allowed (GET): /accounts/logout/
+WARNING 2024-10-26 10:07:52,995 Method Not Allowed: /accounts/logout/
+WARNING 2024-10-26 10:07:52,996 "GET /accounts/logout/ HTTP/1.1" 405 0
+INFO 2024-10-26 10:08:44,454 "GET /result/edit-results/ HTTP/1.1" 200 11501
+INFO 2024-10-26 10:09:13,421 "GET /result/edit-results/ HTTP/1.1" 200 11501
+INFO 2024-10-26 10:09:13,509 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 10:09:13,509 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 10:10:17,335 "GET /result/edit-results/ HTTP/1.1" 200 11501
+INFO 2024-10-26 10:10:21,762 "GET /finance/list/ HTTP/1.1" 200 9917
+INFO 2024-10-26 10:10:22,711 "GET /finance/list/ HTTP/1.1" 200 9917
+INFO 2024-10-26 10:10:25,826 "GET /finance/bulk-invoice/ HTTP/1.1" 200 9285
+INFO 2024-10-26 10:10:28,831 "GET /finance/create/ HTTP/1.1" 200 13826
+INFO 2024-10-26 10:11:17,909 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2024-10-26 10:11:17,988 "GET /finance/list HTTP/1.1" 301 0
+INFO 2024-10-26 10:11:18,067 "GET /finance/list/ HTTP/1.1" 200 10361
+INFO 2024-10-26 10:11:27,819 "GET /student/list HTTP/1.1" 200 9935
+INFO 2024-10-26 10:17:32,173 "GET /student/list HTTP/1.1" 200 9928
+INFO 2024-10-26 10:17:32,237 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,247 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,248 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,251 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,252 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,252 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,255 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,256 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,257 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,257 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,258 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,258 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:17:32,258 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:19:22,163 "GET /student/list HTTP/1.1" 200 9934
+INFO 2024-10-26 10:19:22,242 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 10:19:22,242 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-10-26 10:22:53,426 "GET /student/list HTTP/1.1" 200 9922
+WARNING 2024-10-26 10:27:36,201 Method Not Allowed (GET): /accounts/logout/
+WARNING 2024-10-26 10:27:36,233 Method Not Allowed: /accounts/logout/
+WARNING 2024-10-26 10:27:36,236 "GET /accounts/logout/ HTTP/1.1" 405 0
+INFO 2024-10-26 10:27:42,180 "GET /student/list HTTP/1.1" 200 9922
+INFO 2024-10-26 10:27:44,374 "GET /student/create/ HTTP/1.1" 200 13830
+INFO 2024-10-26 10:27:57,282 C:\Users\vanessa\PycharmProjects\Django-School-Management-System\apps\finance\models.py changed, reloading.
+INFO 2024-10-26 10:27:58,480 Watching for file changes with StatReloader
+INFO 2024-10-26 10:32:01,427 Watching for file changes with StatReloader
+INFO 2024-10-26 10:32:04,996 "GET /student/create/ HTTP/1.1" 200 13830
+INFO 2024-10-26 10:32:05,031 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,037 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,037 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,037 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,040 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,045 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,045 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,045 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,045 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,045 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,045 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,048 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-10-26 10:32:05,048 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
